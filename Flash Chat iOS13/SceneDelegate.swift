@@ -6,7 +6,7 @@
 //  Copyright © 2019 Angela Yu. All rights reserved.
 //
 
-import UIKit//
+import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
